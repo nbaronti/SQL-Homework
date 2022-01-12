@@ -8,6 +8,7 @@
 ### Entity Relationship Diagram
 
 **Quick DBD Entity Relationship Diagram**
-![Entity Relationship Diagram]('01_ERD'/Database_ERD.png)
+
+![Entity Relationship Diagram]('01_ERD'/Database_ERD.jpg)
 
 ### Data Analysis
